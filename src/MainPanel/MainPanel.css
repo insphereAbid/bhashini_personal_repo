@@ -1,0 +1,74 @@
+@font-face {
+  font-family: "RowdiesBold";
+  src: url(../assets/fonts/RowdiesBold.eot);
+}
+@font-face {
+  font-family: "RowdiesBold";
+  src: url(../assets/fonts/RowdiesBold.eot);
+  src: url(../assets/fonts/RowdiesBold.eot) format("embedded-opentype"),
+    url("../assets/fonts/RowdiesBold.woff2") format("woff2"),
+    url("../assets/fonts/RowdiesBold.woff") format("woff"),
+    url("../assets/fonts/RowdiesBold.ttf") format("truetype"),
+    url("../assets/fonts/RowdiesBold.svg#RowdiesBold") format("svg");
+}
+
+@font-face {
+  font-family: "RowdiesRegular";
+  src: url("../assets/fonts/RowdiesRegular.eot");
+  src: url("../assets/fonts/RowdiesRegular.eot") format("embedded-opentype"),
+    url("../assets/fonts/RowdiesRegular.woff2") format("woff2"),
+    url("../assets/fonts/RowdiesRegular.woff") format("woff"),
+    url("../assets/fonts/RowdiesRegular.ttf") format("truetype"),
+    url("../assets/fonts/RowdiesRegular.svg#RowdiesRegular") format("svg");
+}
+
+.vision {
+  color: #763f1b;
+  font-size: 8px;
+  padding: 3%;
+  padding-bottom: 0%;
+  font-style: normal;
+  text-align: center;
+}
+
+.vtxt {
+  margin-top: 29px;
+  font-family: "RowdiesRegular";
+  font-size: 30px;
+}
+
+.para {
+  color: #16337b;
+  font-size: 43px;
+  font-style: normal;
+  font-weight: 200;
+  margin-left: 50px;
+  margin-right: 50px;
+  flex-wrap: wrap;
+  line-height: 48px;
+  letter-spacing: -1px;
+  padding: 2%;
+  text-align: center;
+  font-family: "RowdiesRegular";
+
+
+}
+
+.bg-blue {
+  background-color: #0f2749;
+}
+
+ .container .block-heading {
+    background-image: url("../assets/images/MainPanel/cloud_b.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #0f2749;
+    color: #ffbf00;
+    font-size: 45px;
+    font-weight: 100;
+    margin-bottom: 0%;
+    padding: 3%;
+    text-align: center;
+    font-family: "RowdiesRegular";
+    width:"50%"
+  }

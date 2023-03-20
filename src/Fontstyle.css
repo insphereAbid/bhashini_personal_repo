@@ -1,0 +1,21 @@
+
+  @font-face {
+    font-family: "RowdiesBold";
+    src: url(./assets/fonts/RowdiesBold.eot);
+    src: url(./assets/fonts/RowdiesBold.eot) format("embedded-opentype"),
+      url("./assets/fonts/RowdiesBold.woff2") format("woff2"),
+      url("./assets/fonts/RowdiesBold.woff") format("woff"),
+      url("./assets/fonts/RowdiesBold.ttf") format("truetype"),
+      url("./assets/fonts/RowdiesBold.svg#RowdiesBold") format("svg");
+  }
+  
+  @font-face {
+    font-family: "RowdiesRegular";
+    src: url("./assets/fonts/RowdiesRegular.eot");
+    src: url("./assets/fonts/RowdiesRegular.eot") format("embedded-opentype"),
+      url("./assets/fonts/RowdiesRegular.woff2") format("woff2"),
+      url("./assets/fonts/RowdiesRegular.woff") format("woff"),
+      url("./assets/fonts/RowdiesRegular.ttf") format("truetype"),
+      url("./assets/fonts/RowdiesRegular.svg#RowdiesRegular") format("svg");
+  }
+  

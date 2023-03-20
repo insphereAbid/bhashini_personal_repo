@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "RowdiesLight";
+  src: url("fonts/RowdiesLight.eot");
+  src: url("fonts/RowdiesLight.eot") format("embedded-opentype"),
+    url("fonts/RowdiesLight.woff2") format("woff2"),
+    url("fonts/RowdiesLight.woff") format("woff"),
+    url("fonts/RowdiesLight.ttf") format("truetype"),
+    url("fonts/RowdiesLight.svg#RowdiesLight") format("svg");
+}

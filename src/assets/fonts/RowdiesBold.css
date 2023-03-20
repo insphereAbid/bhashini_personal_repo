@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "RowdiesBold";
+  src: url("fonts/RowdiesBold.eot");
+  src: url("fonts/RowdiesBold.eot") format("embedded-opentype"),
+    url("fonts/RowdiesBold.woff2") format("woff2"),
+    url("fonts/RowdiesBold.woff") format("woff"),
+    url("fonts/RowdiesBold.ttf") format("truetype"),
+    url("fonts/RowdiesBold.svg#RowdiesBold") format("svg");
+}
