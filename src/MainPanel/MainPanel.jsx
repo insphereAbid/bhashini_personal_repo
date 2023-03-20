@@ -24,7 +24,7 @@ const MainPanel = () => {
                 ecosystem of contributors, partnering entities and citizens for
                 the purpose of transcending language barriers, thereby ensuring
                 digital inclusion and digital empowerment in an <br /> Aatma
-                Nirbhar Bharat
+                Nirbhar Bharat this is digital india corporation
               </p>
             </div>
           </div>
@@ -39,11 +39,9 @@ const MainPanel = () => {
             <div className="col-md-12">
               <div className="content">
                 <h1 className="block-heading ">
-                     Enabling a more inclusive future
+                  Enabling a more inclusive future
                 </h1>
-                <p className="para2">
-                  this is a para about something
-                </p>
+                <p className="para2">this is a para about something</p>
               </div>
             </div>
           </div>
